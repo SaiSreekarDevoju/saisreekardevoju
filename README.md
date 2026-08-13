@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m Sai Sreekar Devoju, a 2026 Computer Science and Engineering graduate and a Full-Stack Developer & AI Engineer based in Hyderabad, India.<br><br>I build responsive web applications, scalable backend systems, and practical AI-powered products using React, Next.js, TypeScript, Node.js, FastAPI, PostgreSQL, and Large Language Models. My projects include an AI career guidance platform, an on-screen summarization Chrome extension, team productivity tools, and machine-learning applications.<br><br>🔭 Building full-stack products and Generative AI applications<br>🧠 Exploring LLMs, RAG, AI agents, and intelligent automation<br>🛠️ Experienced with REST APIs, JWT authentication, Prisma, LangChain, and PostgreSQL<br>📄 Conducted research on AI-based depression detection in social media<br>💼 Open to Full-Stack, Software Engineering, Backend, and AI/ML opportunities<br>📍 Based in Hyderabad, India
+# I’m Sai Sreekar Devoju,
+  a 2026 Computer Science and Engineering graduate and a Full-Stack Developer & AI Engineer based in Hyderabad, India.<br><br>I build responsive web applications, scalable backend systems, and practical AI-powered products using React, Next.js, TypeScript, Node.js, FastAPI, PostgreSQL, and Large Language Models. My projects include an AI career guidance platform, an on-screen summarization Chrome extension, team productivity tools, and machine-learning applications.<br><br>🔭 Building full-stack products and Generative AI applications<br>🧠 Exploring LLMs, RAG, AI agents, and intelligent automation<br>🛠️ Experienced with REST APIs, JWT authentication, Prisma, LangChain, and PostgreSQL<br>📄 Conducted research on AI-based depression detection in social media<br>💼 Open to Full-Stack, Software Engineering, Backend, and AI/ML opportunities<br>📍 Based in Hyderabad, India
 
 
 ## 🌐 Socials:
@@ -11,9 +12,6 @@ I’m Sai Sreekar Devoju, a 2026 Computer Science and Engineering graduate and a
 ![](https://github-readme-stats.shion.dev/api?username=SaiSreekarDevoju&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SaiSreekarDevoju&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SaiSreekarDevoju&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://komarev.com/ghpvc/?username=SaiSreekarDevoju&icon=0&color=0)](https://visitcount.itsvg.in)
