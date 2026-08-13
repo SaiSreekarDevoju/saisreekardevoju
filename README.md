@@ -467,9 +467,11 @@ flowchart TD
 
 ### Certifications
 
-- Introduction to Machine Learning — Infosys
-- Python and Django — Coursera
-- Cloud Computing — NPTEL
+- Programming in Python – Meta
+- Introduction to Databases – Meta
+- SQL: A Practical Introduction for Querying Databases – IBM
+- Databases and SQL for Data Science with Python – IBM
+- Using Databases with Python – University of Michigan
 - Continuous independent learning in AI and full-stack engineering
 
 ---
