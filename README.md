@@ -113,7 +113,7 @@ const saiSreekar = {
 ## `02 // LIVE DEVELOPMENT LOG`
 
 ```text
-╭─ SAI DEVELOPMENT NETWORK ──────────────────────────────────────╮
+╭─ SAI DEVELOPMENT NETWORK ─────────────────────────────────────╮
 │                                                               │
 │  [ACTIVE]  Building full-stack and Generative AI products     │
 │  [ACTIVE]  Engineering authenticated REST APIs                │
